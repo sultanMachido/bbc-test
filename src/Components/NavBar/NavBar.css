@@ -1,0 +1,21 @@
+.NavbarContainer{
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+}
+
+.NavbarLogo{
+    margin: 0 auto;
+    width:'300px';
+    padding: 5px;
+}
+
+.ListItem{
+    display:flex;
+    list-style-type:none;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+    font-weight: bold;
+    color: white;
+}

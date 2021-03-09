@@ -1,0 +1,32 @@
+
+.HeaderText{
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    font-size: 40px;
+    font-size: 2.66667rem;
+    line-height: 1.15;
+    text-align: center;
+}
+
+.HeaderImage{
+    margin: 0 auto;
+    display: block;
+}
+
+.Quote{
+    font-weight: 600;
+    -webkit-font-smoothing: antialiased;
+    font-size: 30px;
+    font-size: 2.66667rem;
+    line-height: 1.15;
+    color:#737373
+}
+
+.ArticleParagraph{
+    font-weight: 300;
+    -webkit-font-smoothing: antialiased;
+    font-size: 18px;
+    font-size: 1.2rem;
+    line-height: 1.66667;
+    color:#262626
+}

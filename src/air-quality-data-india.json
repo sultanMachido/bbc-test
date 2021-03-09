@@ -1,0 +1,196 @@
+{
+    "data":[
+        {
+            "city_name":"Ghaziabad",
+            "city_aqi":"283 PM2.5",
+            "cigarrete_equivalent":"12",
+            "state_code":"IN-UP"
+        },
+        {
+            "city_name":"Noida",
+            "city_aqi":"213 PM2.5",
+            "cigarrete_equivalent":"10",
+            "state_code":"IN-UP"
+        },
+        {
+            "city_name":"Delhi",
+            "city_aqi":"235 PM2.5",
+            "cigarrete_equivalent":"10",
+            "state_code":"IN-DL"
+        },
+        {
+            "city_name":"Lucknow",
+            "city_aqi":"158 PM2.5",
+            "cigarrete_equivalent":"7",
+            "state_code":"IN-UP"
+        },
+        {
+            "city_name":"Gurugram",
+            "city_aqi":"254 PM2.5",
+            "cigarrete_equivalent":"11",
+            "state_code":"IN-HR"
+        },
+        {
+            "city_name":"Faridabad",
+            "city_aqi":"220 PM2.5",
+            "cigarrete_equivalent":"10",
+            "state_code":"IN-HR"
+        },
+        {
+            "city_name":"Varanasi",
+            "city_aqi":"122 PM2.5",
+            "cigarrete_equivalent":"5",
+            "state_code":"IN-UP"
+        },
+        {
+            "city_name":"Kanpur",
+            "city_aqi":"268 PM2.5",
+            "cigarrete_equivalent":"12",
+            "state_code":"IN-UP"
+        },
+        {
+            "city_name":"Patna",
+            "city_aqi":"133 PM2.5",
+            "cigarrete_equivalent":"6",
+            "state_code":"IN-BR"
+        },
+        {
+            "city_name":"Muzaffarpur",
+            "city_aqi":"114 PM2.5",
+            "cigarrete_equivalent":"5",
+            "state_code":"IN-BR"
+        },
+        {
+            "city_name":"Mandi Gobindgarh",
+            "city_aqi":"75 PM2.5",
+            "cigarrete_equivalent":"3",
+            "state_code":"IN-PB"
+        },
+        {
+            "city_name":"Ludhiana",
+            "city_aqi":"69 PM2.5",
+            "cigarrete_equivalent":"3",
+            "state_code":"IN-PB"
+        },
+        {
+            "city_name":"Jodhpur",
+            "city_aqi":"126 PM2.5",
+            "cigarrete_equivalent":"6",
+            "state_code":"IN-RJ"
+        },
+        {
+            "city_name":"Amritsar",
+            "city_aqi":"61 PM2.5",
+            "cigarrete_equivalent":"3",
+            "state_code":"IN-PB"
+        },
+        {
+            "city_name":"Ahmedabad",
+            "city_aqi":"91 PM2.5",
+            "cigarrete_equivalent":"4",
+            "state_code":"IN-GJ"
+        },
+        {
+            "city_name":"Panchkula",
+            "city_aqi":"41 PM2.5",
+            "cigarrete_equivalent":"2",
+            "state_code":"IN-HR"
+        },
+        {
+            "city_name":"Gaya",
+            "city_aqi":"70 PM2.5",
+            "cigarrete_equivalent":"3",
+            "state_code":"IN-BR"
+        },
+        {
+            "city_name":"Nagpur",
+            "city_aqi":"27 PM2.5",
+            "cigarrete_equivalent":"1",
+            "state_code":"IN-MH"
+        },
+        {
+            "city_name":"Vijaywada",
+            "city_aqi":"32 PM2.5",
+            "cigarrete_equivalent":"1",
+            "state_code":"IN-AP"
+        },
+        {
+            "city_name":"Chandrapur",
+            "city_aqi":"43 PM2.5",
+            "cigarrete_equivalent":"1",
+            "state_code":"IN-MH"
+        },
+        {
+            "city_name":"Chennai",
+            "city_aqi":"58 PM2.5",
+            "cigarrete_equivalent":"2",
+            "state_code":"IN-TN"
+        },
+        {
+            "city_name":"Bhiwadi",
+            "city_aqi":"103 PM2.5",
+            "cigarrete_equivalent":"4",
+            "state_code":"IN-RJ"
+        },
+        {
+            "city_name":"Mumbai",
+            "city_aqi":"44 PM2.5",
+            "cigarrete_equivalent":"2",
+            "state_code":"IN-MH"
+        },
+        {
+            "city_name":"Nashik",
+            "city_aqi":"51 PM2.5",
+            "cigarrete_equivalent":"2",
+            "state_code":"IN-MH"
+        },
+        {
+            "city_name":"Thane",
+            "city_aqi":"41 PM2.5",
+            "cigarrete_equivalent":"2",
+            "state_code":"IN-MH"
+        },
+        {
+            "city_name":"Aurangabad",
+            "city_aqi":"48 PM2.5",
+            "cigarrete_equivalent":"2",
+            "state_code":"IN-MH"
+        },
+        {
+            "city_name":"Hyderabad",
+            "city_aqi":"56 PM2.5",
+            "cigarrete_equivalent":"2",
+            "state_code":"IN-AP"
+        },
+        {
+            "city_name":"Visakhapatnam",
+            "city_aqi":"51 PM2.5",
+            "cigarrete_equivalent":"2",
+            "state_code":"IN-AP"
+        },
+        {
+            "city_name":"Rajamahandevaram",
+            "city_aqi":"44 PM2.5",
+            "cigarrete_equivalent":"2",
+            "state_code":"IN-AP"
+        },
+        {
+            "city_name":"Chittoor",
+            "city_aqi":"11 PM2.5",
+            "cigarrete_equivalent":"0",
+            "state_code":"IN-AP"
+        },
+        {
+            "city_name":"Bangalore",
+            "city_aqi":"23 PM2.5",
+            "cigarrete_equivalent":"1",
+            "state_code":"IN-KA"
+        },
+        {
+            "city_name":"Trivandrum",
+            "city_aqi":"53 PM2.5",
+            "cigarrete_equivalent":"2",
+            "state_code":"IN-KL"
+        }
+    ]
+}
