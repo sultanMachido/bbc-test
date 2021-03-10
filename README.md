@@ -42,3 +42,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ### Project Overview
 
 The entry to this project is in the index.js file in the src folder. This file contains files from the DisplayPage folder. The DisplayPage.js file contains components from the Components folder that make up every visual element on the page.
+
+Translation data is in the Language folder.
