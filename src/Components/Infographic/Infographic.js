@@ -3,6 +3,7 @@ import airQualityData from '../../air-quality-data-india.json';
 import CityPicker from '../CityPicker/CityPicker';
 import Map from '../Map/Map'
 import InfoCard from '../InfoCard/InfoCard';
+import ColorLegend from '../ColorLegend/ColorLegend'
 
 
 class Infographic extends Component{
@@ -171,9 +172,10 @@ class Infographic extends Component{
            </svg>
 
             <div>
+                
                 <CityPicker cities={this.state.airData} changeCity={this.onChangeCity}/>
                 {this.state.cityInfo?<InfoCard states={this.state.state} color={this.state.color} city={this.state.city} airQuality={this.state.airQuality} cigaretteEquivalent={this.state.cigarette}/>:null}
-                
+                <ColorLegend />
             </div>
 
         </div>
