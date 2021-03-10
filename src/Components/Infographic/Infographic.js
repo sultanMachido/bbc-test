@@ -1,7 +1,6 @@
 import React,{Component} from 'react';
 import airQualityData from '../../air-quality-data-india.json';
 import CityPicker from '../CityPicker/CityPicker';
-import Map from '../Map/Map'
 import InfoCard from '../InfoCard/InfoCard';
 import ColorLegend from '../ColorLegend/ColorLegend'
 
@@ -37,7 +36,6 @@ class Infographic extends Component{
     componentDidMount = ()=>{
        
         let stateArray = [...this.state.airData]
-        console.log(airQualityData.data[0].city_name)
         this.setState({
               airData:stateArray.concat(airQualityData.data)
         })
@@ -45,10 +43,6 @@ class Infographic extends Component{
     }
     
     onChangeCity =(e)=>{
-        // this.paths.current.style.fill = '#fff';
-        // console.log(this.paths.current.style.fill)
-        console.log(e.target.selectedOptions[0].innerHTML)
-
         this.setState({cityInfo:true})
 
         switch (e.target.value) {

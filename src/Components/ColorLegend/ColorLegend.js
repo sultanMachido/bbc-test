@@ -1,4 +1,5 @@
 import React,{Component} from 'react';
+import { withTranslation } from 'react-i18next';
 
 
 
@@ -7,11 +8,12 @@ class ColorLegend extends Component {
 
 
     render(){
+        const { t } = this.props;
         return(
             <div style={{display:'flex',width:'100%',height:'300px'}} >
                <svg width="400" height="150">
                   <circle cx="10" cy="10" r="10" fill=""  />
-                  <text x="20" y="15" fill="black">not selected/no data available</text>
+                  <text x="20" y="15" fill="black">{t('legendText')}</text>
                   <circle cx="10" cy="30" r="10" fill="#A8D5E2"  />
                   <text x="20" y="35" fill="black">Rajasthan</text>
                   <circle cx="10" cy="50" r="10" fill="#F9A620"  />
@@ -49,4 +51,4 @@ class ColorLegend extends Component {
 
 
 
-export default ColorLegend
+export default withTranslation()(ColorLegend)
